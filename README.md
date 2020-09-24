@@ -1,9 +1,9 @@
 # <span class="c6 c22">Programming For Beginners</span>
 
 
-*<span class="c21">[What exactly is programming?](#h.qripscf3vevn)</span> 1
+<span class="c21">[What exactly is programming?](#h.qripscf3vevn)</span>
 
-*<span class="c7">[What are the programming languages?](#h.coxk854iofjj)</span> 2
+<span class="c7">[What are the programming languages?](#h.coxk854iofjj)</span>
 
 <span class="c0">[How programming languages are made?](#h.8t82l2hr0kb6)</span>
 
