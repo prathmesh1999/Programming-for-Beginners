@@ -1,7 +1,5 @@
 # <span class="c6 c22">Programming For Beginners</span>
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 628.04px; height: 71.00px;">![](images/image1.jpg)</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 789.50px; height: 1257.63px;">![](images/image3.png)</span>
 
 <span class="c21">[What exactly is programming?](#h.qripscf3vevn)</span>
 
