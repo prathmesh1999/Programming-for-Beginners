@@ -380,7 +380,9 @@
 
 <span class="c19">Here name is something that we call a variable. I like to think of variables as empty boxes that can hold some value.</span>
 
-<span class="c3">`name=input()`</span>
+```python
+name=input()
+```
 
 <span class="c3">`input()` is a function (later on that)</span>
 
@@ -394,7 +396,9 @@
 
 <span class="c3">`print()` is the function like `input()`. Inside the brackets ‘()’ we specify what we want to show as an output on the screen.</span>
 
-<span class="c11 c19">`print("Hi", name)`</span>
+```python
+print("Hi", name)
+```
 
 <span class="c3">In Python code, text that needs to be stored or printed or displayed should always be inside “double quotes like this”.</span>
 
@@ -416,8 +420,10 @@
 
 <a id="t.e0e13ab8830f910dd562333b15ff6f6649a2d706"></a><a id="t.1"></a>
 
-<span class="c11 c4">`calculate = input(">>>")  
-print(eval(calculate))</span>
+```python
+calculate = input(">>>")  
+print(eval(calculate))
+```
 
 <span class="c6 c4"></span>
 
@@ -431,7 +437,9 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c11 c4">`calculate = input(">>>")</span>
+```python
+calculate = input(">>>")
+```
 
 <span class="c11 c26 c4"></span>
 
@@ -441,7 +449,9 @@ print(eval(calculate))</span>
 
 <span class="c6 c4">Don’t panic, you’ll get this in a second!</span>
 
-<span class="c11 c4">print(eval(calculate))</span>
+```python
+print(eval(calculate))
+```
 
 <span class="c6 c4">Just like math, Python gives priority to (brackets) first.</span>
 
@@ -449,11 +459,14 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c6 c4">-Calculate (more)</span>
+```
 
-<span class="c6 c4">--eval</span>
+-Calculate (more)
 
-<span class="c6 c4">---print (less)</span>
+--eval</span>
+
+---print (less)
+```
 
 <span class="c6 c4"></span>
 
