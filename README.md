@@ -365,8 +365,8 @@
 
 <td class="c35" colspan="1" rowspan="1">
 
-<span class="c11 c19">name=input()  
-print(</span><span class="c19 c23">"Hi"</span><span class="c11 c26 c19">, name)</span>
+<span class="c11 c19">`name=input()`  
+`print("Hi", name)`</span>
 
 </td>
 
@@ -394,9 +394,9 @@ print(</span><span class="c19 c23">"Hi"</span><span class="c11 c26 c19">, name)<
 
 <span class="c19">Here name is something that we call a variable. I like to think of variables as empty boxes that can hold some value.</span>
 
-<span class="c11 c19">name=input()</span>
+<span class="c11 c19">`name=input()`</span>
 
-<span class="c3">input() is a function (on that later)</span>
+<span class="c3">`input()` is a function (on that later)</span>
 
 <span class="c3">What it does is wait for the user to give some input in the form of text. In the last slide, I entered SMR which was then stored as text in the variable (imagine as a box) ‘name’.</span>
 
@@ -406,9 +406,9 @@ print(</span><span class="c19 c23">"Hi"</span><span class="c11 c26 c19">, name)<
 
 <span class="c3"></span>
 
-<span class="c3">print() is the function like input(). Inside the brackets ‘()’ we specify what we want to show as an output on the screen.</span>
+<span class="c3">`print()` is the function like `input()`. Inside the brackets ‘()’ we specify what we want to show as an output on the screen.</span>
 
-<span class="c11 c19">print(</span><span class="c23 c19">"Hi"</span><span class="c11 c26 c19">, name)</span>
+<span class="c11 c19">`print("Hi", name)`</span>
 
 <span class="c3">In Python code, text that needs to be stored or printed or displayed should always be inside “double quotes like this”.</span>
 
@@ -438,7 +438,7 @@ print(</span><span class="c19 c23">"Hi"</span><span class="c11 c26 c19">, name)<
 
 <td class="c35" colspan="1" rowspan="1">
 
-<span class="c11 c4">calculate = input(</span><span class="c23 c4">">>>"</span><span class="c11 c4">)  
+<span class="c11 c4">`calculate = input(">>>")  
 print(eval(calculate))</span>
 
 </td>
@@ -461,7 +461,7 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c11 c4">calculate = input(</span><span class="c23 c4">">>>"</span><span class="c11 c4 c26">)</span>
+<span class="c11 c4">`calculate = input(">>>")</span>
 
 <span class="c11 c26 c4"></span>
 
