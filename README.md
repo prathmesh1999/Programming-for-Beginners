@@ -358,8 +358,10 @@
 <a id="t.ea0d00af0e6d92c23dfaffaa067defb21788e707"></a><a id="t.0"></a>
 
 
-<span class="c3">`name=input()`  
-`print("Hi", name)`</span>
+```python
+name=input()
+print("Hi", name)
+```
 
 
 <span class="c3"></span>
@@ -445,7 +447,7 @@ calculate = input(">>>")
 
 <span class="c6 c4">On line 1 we declare a variable called calculate. As I told in the previous chapter, variables are what we use to put data or information in Python.</span>
 
-<span class="c6 c4">input() is something that we use to get input from the user. The text inside the (), here “>>>”. Will be shown just before where the user types (the questions).</span>
+<span class="c6 c4">`input()` is something that we use to get input from the user. The text inside the (), here “>>>”. Will be shown just before where the user types (the questions).</span>
 
 <span class="c6 c4">Don’t panic, you’ll get this in a second!</span>
 
@@ -478,20 +480,16 @@ print(eval(calculate))
 
 <span class="c6 c4"></span>
 
-<span class="c11 c4">print(eval(calculate))</span>
+```
+print(eval(calculate))
+|    |    | “9 +57” ||  |
+|    |-------------- |  |
+|    |      66       |  |
+|    |---------------|  |
+|  Outputs 66 on-screen |
+|-----------------------|
 
-<span class="c6 c4">|        |        |     “9 +57”  |   |  |</span>
-
-<span class="c4">|        |        </span><span class="c4 c33">----------------------------</span><span class="c6 c4">   |  |</span>
-
-<span class="c4">|        </span><span class="c6 c4">|        66                    |  |</span>
-
-<span class="c4">|        </span><span class="c4 c33">-----------------------------------------------</span> <span class="c6 c4">|</span>
-
-<span class="c6 c4">|        Outputs 66 on-screen   |</span>
-
-<span class="c30 c4">-------------------------------------------------------------------</span>
-
+```
 <span class="c30 c4"></span>
 
 <span class="c4 c30"></span>
@@ -550,9 +548,10 @@ print(eval(calculate))
 
 <span class="c6 c4">Last chapters code</span>
 
-<span class="c11 c4">calculate = input(</span><span class="c23 c4">">>>"</span><span class="c4 c11">)  
-print(eval(calculate))</span>
-
+```python
+calculate = input(>>>)
+print(eval(calculate))
+```
 <span class="c6 c4">Last chapter we had done addition. Now let’s try some other operations.</span>
 
 <span class="c6 c4"></span>
@@ -673,7 +672,7 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c6 c4">x=90</span>
+`x=90`
 
 <span class="c6 c4"></span>
 
@@ -689,7 +688,7 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c6 c4">text = “ Stay Home Stay Safe”</span>
+`text = “ Stay Home Stay Safe”`
 
 <span class="c6 c4"></span>
 
@@ -697,7 +696,7 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c6 c4">text = ””” This is a multi-line text”””</span>
+`text = ””” This is a multi-line text”””`
 
 <span class="c6 c4"></span>
 
@@ -707,9 +706,11 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c6 c4">y= 24.3</span>
+```python
+y= 24.3
 
-<span class="c6 c4">print(type(y))</span>
+print(type(y))
+```
 
 <span class="c6 c4"></span>
 
@@ -717,7 +718,7 @@ print(eval(calculate))</span>
 
 <span class="c6 c4">The second line will print the type of data, variable y is holding. Here, a float</span>
 
-<span class="c6 c4"><class ‘float’></span>
+<span class="c6 c4"></span>
 
 <span class="c6 c4"></span>
 
@@ -729,7 +730,7 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c6 c4">programmingIsFun = True</span>
+`programmingIsFun = True`
 
 <span class="c6 c4"></span>
 
@@ -745,9 +746,10 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c6 c4">X = str(5)</span>
-
-<span class="c6 c4">print(type(x))</span>
+```python
+X = str(5)
+print(type(x))
+```
 
 <span class="c6 c4"></span>
 
@@ -755,13 +757,13 @@ print(eval(calculate))</span>
 
 <span class="c6 c4"></span>
 
-<span class="c6 c4">String str()</span>
+*String `str()`
 
-<span class="c6 c4">Integer int()</span>
+*Integer `int()`
 
-<span class="c6 c4">Float float()</span>
+*Float `float()`
 
-<span class="c6 c4">Boolean bool()</span>
+*Boolean `bool()`
 
 # <span class="c6 c22">Joining strings in python</span>
 
@@ -770,13 +772,13 @@ print(eval(calculate))</span>
 <span class="c6 c4">Adding two strings</span>
 
 <span class="c6 c4"></span>
+```python
+Text = “Hi, I am “
 
-<span class="c6 c4">Text = “Hi, I am “</span>
+name = “SMR”
 
-<span class="c6 c4">name = “SMR”</span>
-
-<span class="c6 c4">print(text + name)</span>
-
+print(text + name)
+```
 <span class="c6 c4">Use the IDE for testing</span>
 
 <span class="c6 c4"></span>
