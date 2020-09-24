@@ -365,7 +365,7 @@
 
 <td class="c35" colspan="1" rowspan="1">
 
-<span class="c11 c19">`name=input()`  
+<span class="c3">`name=input()`  
 `print("Hi", name)`</span>
 
 </td>
@@ -394,9 +394,9 @@
 
 <span class="c19">Here name is something that we call a variable. I like to think of variables as empty boxes that can hold some value.</span>
 
-<span class="c11 c19">`name=input()`</span>
+<span class="c3">`name=input()`</span>
 
-<span class="c3">`input()` is a function (on that later)</span>
+<span class="c3">`input()` is a function (later on that)</span>
 
 <span class="c3">What it does is wait for the user to give some input in the form of text. In the last slide, I entered SMR which was then stored as text in the variable (imagine as a box) ‘name’.</span>
 
