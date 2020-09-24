@@ -357,24 +357,10 @@
 
 <a id="t.ea0d00af0e6d92c23dfaffaa067defb21788e707"></a><a id="t.0"></a>
 
-<table class="c27">
-
-<tbody>
-
-<tr class="c28">
-
-<td class="c35" colspan="1" rowspan="1">
 
 <span class="c3">`name=input()`  
 `print("Hi", name)`</span>
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 <span class="c3"></span>
 
@@ -430,24 +416,8 @@
 
 <a id="t.e0e13ab8830f910dd562333b15ff6f6649a2d706"></a><a id="t.1"></a>
 
-<table class="c27">
-
-<tbody>
-
-<tr class="c28">
-
-<td class="c35" colspan="1" rowspan="1">
-
 <span class="c11 c4">`calculate = input(">>>")  
 print(eval(calculate))</span>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 <span class="c6 c4"></span>
 
