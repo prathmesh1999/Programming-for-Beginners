@@ -5,71 +5,71 @@
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 789.50px; height: 1257.63px;">![](images/image3.png)</span>
 
-<span class="c21">[What exactly is programming?](#h.qripscf3vevn)</span><span class="c21">        </span><span class="c21">[3](#h.qripscf3vevn)</span>
+<span class="c21">[What exactly is programming?](#h.qripscf3vevn)</span>
 
-<span class="c7">[What are the programming languages?](#h.coxk854iofjj)</span><span class="c7">        </span><span class="c7">[4](#h.coxk854iofjj)</span>
+<span class="c7">[What are the programming languages?](#h.coxk854iofjj)</span>
 
-<span class="c0">[How programming languages are made?](#h.8t82l2hr0kb6)</span><span class="c0">        </span><span class="c0">[5](#h.8t82l2hr0kb6)</span>
+<span class="c0">[How programming languages are made?](#h.8t82l2hr0kb6)</span>
 
-<span class="c7">[Why learn Python?](#h.w1y22vcvgnk9)</span><span class="c7">        </span><span class="c7">[6](#h.w1y22vcvgnk9)</span>
+<span class="c7">[Why learn Python?](#h.w1y22vcvgnk9)</span>
 
-<span class="c21">[Your first program](#h.f5n95ap7ltqg)</span><span class="c21">        </span><span class="c21">[7](#h.f5n95ap7ltqg)</span>
+<span class="c21">[Your first program](#h.f5n95ap7ltqg)</span>
 
-<span class="c7">[Code your own calculator](#h.uveg6pmwduwl)</span><span class="c7">        </span><span class="c7">[8](#h.uveg6pmwduwl)</span>
+<span class="c7">[Code your own calculator](#h.uveg6pmwduwl)</span>
 
-<span class="c7">[Operations in Python](#h.d9xac6lw32v)</span><span class="c7">        </span><span class="c7">[10](#h.d9xac6lw32v)</span>
+<span class="c7">[Operations in Python](#h.d9xac6lw32v)</span>
 
-<span class="c0">[Subtraction -](#h.l12es1k8fy53)</span><span class="c0">        </span><span class="c0">[10](#h.l12es1k8fy53)</span>
+<span class="c0">[Subtraction -](#h.l12es1k8fy53)</span>
 
-<span class="c0">[Multiplication *](#h.ejlhlhbq3797)</span><span class="c0">        </span><span class="c0">[10](#h.ejlhlhbq3797)</span>
+<span class="c0">[Multiplication *](#h.ejlhlhbq3797)</span>
 
-<span class="c0">[Division /](#h.8f0oxevrqm56)</span><span class="c0">        </span><span class="c0">[10](#h.8f0oxevrqm56)</span>
+<span class="c0">[Division /](#h.8f0oxevrqm56)</span>
 
-<span class="c0">[Modulus %](#h.vrti4ua68n9v)</span><span class="c0">        </span><span class="c0">[10](#h.vrti4ua68n9v)</span>
+<span class="c0">[Modulus %](#h.vrti4ua68n9v)</span>
 
-<span class="c7">[Types In Python](#h.3qznduq94whm)</span><span class="c7">        </span><span class="c7">[12](#h.3qznduq94whm)</span>
+<span class="c7">[Types In Python](#h.3qznduq94whm)</span>
 
-<span class="c0">[Integers](#h.hyqa738mqwvc)</span><span class="c0">        </span><span class="c0">[12](#h.hyqa738mqwvc)</span>
+<span class="c0">[Integers](#h.hyqa738mqwvc)</span>
 
-<span class="c0">[Strings](#h.k9ov8f6xajln)</span><span class="c0">        </span><span class="c0">[12](#h.k9ov8f6xajln)</span>
+<span class="c0">[Strings](#h.k9ov8f6xajln)</span>
 
-<span class="c0">[Float](#h.uzmszy60zmp)</span><span class="c0">        </span><span class="c0">[12](#h.uzmszy60zmp)</span>
+<span class="c0">[Float](#h.uzmszy60zmp)</span>
 
-<span class="c0">[Boolean](#h.xu5tzzre084n)</span><span class="c0">        </span><span class="c0">[13](#h.xu5tzzre084n)</span>
+<span class="c0">[Boolean](#h.xu5tzzre084n)</span>
 
-<span class="c0">[Casting](#h.lqes8aemgm6w)</span><span class="c0">        </span><span class="c0">[13](#h.lqes8aemgm6w)</span>
+<span class="c0">[Casting](#h.lqes8aemgm6w)</span>
 
-<span class="c7">[Joining strings in python](#h.73ocdmn676w6)</span><span class="c7">        </span><span class="c7">[14](#h.73ocdmn676w6)</span>
+<span class="c7">[Joining strings in python](#h.73ocdmn676w6)</span>
 
-<span class="c0">[Adding strings with numbers](#h.21qthlp0uy1p)</span><span class="c0">        </span><span class="c0">[14](#h.21qthlp0uy1p)</span>
+<span class="c0">[Adding strings with numbers](#h.21qthlp0uy1p)</span>
 
-<span class="c7">[Control flow in Python](#h.k7wd8ow5n00)</span><span class="c7">        </span><span class="c7">[16](#h.k7wd8ow5n00)</span>
+<span class="c7">[Control flow in Python](#h.k7wd8ow5n00)</span>
 
-<span class="c21">[Conditions in Python](#h.d2ptz82d61ov)</span><span class="c21">        </span><span class="c21">[17](#h.d2ptz82d61ov)</span>
+<span class="c21">[Conditions in Python](#h.d2ptz82d61ov)</span>
 
-<span class="c0">[Basic syntax:](#h.5z19ygtz4rf9)</span><span class="c0">        </span><span class="c0">[17](#h.5z19ygtz4rf9)</span>
+<span class="c0">[Basic syntax:](#h.5z19ygtz4rf9)</span>
 
-<span class="c7">[While loop in Python](#h.f66cszjv3d1i)</span><span class="c7">        </span><span class="c7">[19](#h.f66cszjv3d1i)</span>
+<span class="c7">[While loop in Python](#h.f66cszjv3d1i)</span>
 
-<span class="c0">[While loop syntax](#h.qlbeg5krlagd)</span><span class="c0">        </span><span class="c0">[19](#h.qlbeg5krlagd)</span>
+<span class="c0">[While loop syntax](#h.qlbeg5krlagd)</span>
 
-<span class="c7">[For loops in Python](#h.4th6jfks6htj)</span><span class="c7">        </span><span class="c7">[21](#h.4th6jfks6htj)</span>
+<span class="c7">[For loops in Python](#h.4th6jfks6htj)</span>
 
-<span class="c0">[For loop with a range syntax.](#h.yds32k6elko2)</span><span class="c0">        </span><span class="c0">[21](#h.yds32k6elko2)</span>
+<span class="c0">[For loop with a range syntax.](#h.yds32k6elko2)</span>
 
-<span class="c7">[Lists in Python](#h.nnq98alizbg9)</span><span class="c7">        </span><span class="c7">[23](#h.nnq98alizbg9)</span>
+<span class="c7">[Lists in Python](#h.nnq98alizbg9)</span>
 
-<span class="c7">[Dictionaries in Python](#h.2xt50eq8g3xj)</span><span class="c7">        </span><span class="c7">[25](#h.2xt50eq8g3xj)</span>
+<span class="c7">[Dictionaries in Python](#h.2xt50eq8g3xj)</span>
 
-<span>[Adding new data](#h.uezwmxp9i0qk)</span><span>        </span><span>[26](#h.uezwmxp9i0qk)</span>
+<span>[Adding new data](#h.uezwmxp9i0qk)</span>
 
-<span>[Removing Items](#h.epyjwqa9a1de)</span><span>        </span><span>[26](#h.epyjwqa9a1de)</span>
+<span>[Removing Items](#h.epyjwqa9a1de)</span>
 
-<span class="c7">[Functions in Python](#h.n92smpjowtun)</span><span class="c7">        </span><span class="c7">[27](#h.n92smpjowtun)</span>
+<span class="c7">[Functions in Python](#h.n92smpjowtun)</span>
 
-<span>[Functions](#h.c26fmyv7u0)</span><span>        </span><span>[27](#h.c26fmyv7u0)</span>
+<span>[Functions](#h.c26fmyv7u0)</span>
 
-<span class="c7">[What Next?](#h.mwficmuudv0b)</span><span class="c7">        </span><span class="c7">[29](#h.mwficmuudv0b)</span>
+<span class="c7">[What Next?](#h.mwficmuudv0b)</span>
 
 # <span class="c6 c37"></span>
 
