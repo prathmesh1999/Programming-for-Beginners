@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+#content,body,pre {
+    background: #000
+}
+.k,.o {
+    color: #fff!important
+}
