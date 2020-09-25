@@ -1,24 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <style>
-      .mode { 
-            float:right; 
-        } 
-        .change { 
-            cursor: pointer; 
-            border: 1px solid #555; 
-            border-radius: 40%; 
-            width: 20px; 
-            text-align: center; 
-            padding: 5px; 
-            margin-left: 8px; 
-        } 
-        .dark{ 
-            background-color: #222!important; 
-            color: #e6e6e6!important; 
-        } 
-    </style>
 <link rel="shortcut icon" type="image/png" href="https://www.snetworks.ml/assets/images/97495b29-dc89-4141-be8c-4736fb79ebe8-200x200-90x90.png">
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -40,10 +22,6 @@
   <body>
 
     <header class="page-header" role="banner">
-          <div class="mode"> 
-        Dark mode:              
-        <span class="change">OFF</span> 
-    </div> 
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
@@ -65,16 +43,5 @@
         <span class="site-footer-credits">Like this? <a href="https://github.com/Sarveshmrao/Programming-for-Beginners/">Star this on GitHub</a>.</span>
       </footer>
     </main>
-        <script> 
-        $( ".change" ).on("click", function() { 
-            if( $( "body" ).hasClass( "dark" )) { 
-                $( "body" ).removeClass( "dark" ); 
-                $( ".change" ).text( "OFF" ); 
-            } else { 
-                $( "body" ).addClass( "dark" ); 
-                $( ".change" ).text( "ON" ); 
-            } 
-        }); 
-    </script> 
   </body>
 </html>
