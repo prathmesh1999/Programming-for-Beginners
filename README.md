@@ -1,7 +1,7 @@
 # <span class="c6 c22">Programming For Beginners</span>
 
 
-<span class="c21">[What exactly is programming?](#h.qripscf3vevn)</span>
+* <span class="c21">[What exactly is programming?](#h.qripscf3vevn)</span>
 
 <span class="c7">[What are the programming languages?](#h.coxk854iofjj)</span>
 
