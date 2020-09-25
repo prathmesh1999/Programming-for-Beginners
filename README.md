@@ -6,6 +6,7 @@
 * <span class="c7">[What are the programming languages?](#h.coxk854iofjj)</span>
 
   * <span class="c0">[How programming languages are made?](#h.8t82l2hr0kb6)</span>
+  
 
 * <span class="c7">[Why learn Python?](#h.w1y22vcvgnk9)</span>
 
@@ -22,6 +23,7 @@
   * <span class="c0">[Division /](#h.8f0oxevrqm56)</span>
 
   * <span class="c0">[Modulus %](#h.vrti4ua68n9v)</span>
+  
 
 * <span class="c7">[Types In Python](#h.3qznduq94whm)</span>
 
@@ -34,20 +36,27 @@
   * <span class="c0">[Boolean](#h.xu5tzzre084n)</span>
 
   * <span class="c0">[Casting](#h.lqes8aemgm6w)</span>
+  
 
 * <span class="c7">[Joining strings in python](#h.73ocdmn676w6)</span>
 
   * <span class="c0">[Adding strings with numbers](#h.21qthlp0uy1p)</span>
+  
+  
 
 * <span class="c7">[Control flow in Python](#h.k7wd8ow5n00)</span>
 
 * <span class="c21">[Conditions in Python](#h.d2ptz82d61ov)</span>
 
   * <span class="c0">[Basic syntax](#h.5z19ygtz4rf9)</span>
+  
+  
 
 * <span class="c7">[While loop in Python](#h.f66cszjv3d1i)</span>
 
   * <span class="c0">[While loop syntax](#h.qlbeg5krlagd)</span>
+  
+  
 
 * <span class="c7">[For loops in Python](#h.4th6jfks6htj)</span>
 
@@ -60,10 +69,14 @@
   * <span>[Adding new data](#h.uezwmxp9i0qk)</span>
 
   * <span>[Removing Items](#h.epyjwqa9a1de)</span>
+  
+  
 
 * <span class="c7">[Functions in Python](#h.n92smpjowtun)</span>
 
   * <span>[Functions](#h.c26fmyv7u0)</span>
+  
+
 
 * <span class="c7">[What Next?](#h.mwficmuudv0b)</span>
 
